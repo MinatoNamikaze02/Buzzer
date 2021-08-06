@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "1076708670594",
+    "project_id": "buzzer-cb983",
+    "storage_bucket": "buzzer-cb983.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1076708670594:android:6a15cb21eee66d04b3489b",
+        "android_client_info": {
+          "package_name": "com.arjun.buzzer"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1076708670594-9njg3vu9qedthhmbu6pe435ku52v8k61.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBIzGylS6SpfjgZ88GGiJLQkw33ZSaSMjc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1076708670594-9njg3vu9qedthhmbu6pe435ku52v8k61.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
