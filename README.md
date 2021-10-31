@@ -10,5 +10,6 @@ This project is a ***whatsapp clone*** and it was developed for educational purp
 ## Technologies
 Project is created with:
 * Android Studio: 4.2.2
-* Firebase Authentication, Database and Firestore.
+* Firebase 
+
 
